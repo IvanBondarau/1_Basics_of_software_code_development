@@ -1,4 +1,4 @@
-package week1.tasks.looping;
+package by.java_tutorial.week1.looping;
 
 import java.util.Scanner;
 

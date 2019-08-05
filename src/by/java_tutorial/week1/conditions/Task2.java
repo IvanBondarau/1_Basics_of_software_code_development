@@ -1,4 +1,4 @@
-package week1.tasks.conditions;
+package by.java_tutorial.week1.conditions;
 
 import java.util.Scanner;
 

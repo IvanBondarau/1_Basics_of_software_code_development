@@ -1,19 +1,17 @@
-package week1.tasks.linear;
+package by.java_tutorial.week1.linear;
 
 import java.util.Scanner;
 
-public class Task2 {
+public class Task1 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-
+        System.out.println("Calculating z = ((a - 3) * b / 2) + c");
         System.out.println("Please, enter a, b, c: ");
         double a = in.nextDouble();
         double b = in.nextDouble();
         double c = in.nextDouble();
-
-        double z = (b + Math.sqrt(b*b + a*c*4)) / (a * 2) - a*a*a*c + Math.pow(b, -2);
+        double z = ((a - 3) * b / 2) + c;
         System.out.println("z = " + z);
-
     }
 }

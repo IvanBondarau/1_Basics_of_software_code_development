@@ -1,4 +1,4 @@
-package week1.tasks.looping;
+package by.java_tutorial.week1.looping;
 
 public class Task6 {
     public static void main(String[] args) {

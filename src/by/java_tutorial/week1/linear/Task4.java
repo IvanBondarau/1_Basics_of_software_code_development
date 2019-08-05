@@ -1,4 +1,4 @@
-package week1.tasks.linear;
+package by.java_tutorial.week1.linear;
 
 import java.util.Scanner;
 
